@@ -1,4 +1,4 @@
-package com.rbashenskyi.substitutecardapi.config;
+package com.rbashenskyi.maskcardapi.config;
 
 import lombok.Getter;
 import lombok.Setter;

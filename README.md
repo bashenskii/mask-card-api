@@ -13,4 +13,4 @@ Program that detects the card formats of Visa and Mastercard types from an appli
 
 ## Getting Started
 
-Execute test : com.rbashenskyi.substitutecardapi.SubstituteCardApiApplicationTests
+Execute test : com.rbashenskyi.maskcardapi.MaskCardApiApplicationTests

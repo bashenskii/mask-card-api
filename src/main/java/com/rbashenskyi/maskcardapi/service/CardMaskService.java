@@ -1,6 +1,6 @@
-package com.rbashenskyi.substitutecardapi.service;
+package com.rbashenskyi.maskcardapi.service;
 
-import com.rbashenskyi.substitutecardapi.config.CardProperties;
+import com.rbashenskyi.maskcardapi.config.CardProperties;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

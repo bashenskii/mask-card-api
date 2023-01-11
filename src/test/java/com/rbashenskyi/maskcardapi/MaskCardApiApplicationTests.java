@@ -1,6 +1,6 @@
-package com.rbashenskyi.substitutecardapi;
+package com.rbashenskyi.maskcardapi;
 
-import com.rbashenskyi.substitutecardapi.service.CardMaskService;
+import com.rbashenskyi.maskcardapi.service.CardMaskService;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Test;
@@ -18,7 +18,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 @SpringBootTest
 @Slf4j
-class SubstituteCardApiApplicationTests {
+class MaskCardApiApplicationTests {
 
     @Autowired
     public CardMaskService cardMaskService;

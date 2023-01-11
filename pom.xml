@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.rbashenskyi</groupId>
-	<artifactId>substitute-card-api</artifactId>
+	<artifactId>mask-card-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>substitute-card-api</name>
-	<description>Api for substitution sensitive info</description>
+	<name>mask-card-api</name>
+	<description>Api for mask card info</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
